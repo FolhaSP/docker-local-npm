@@ -1,6 +1,6 @@
 FROM node:6.0.0
 
-MAINTAINER Orlando Hohmeier <hello@orlandohohmeier.com>
+MAINTAINER Webysther Nunes <webysther@gmail.com>
 
 WORKDIR /local-npm
 ADD . /local-npm/
