@@ -9,4 +9,4 @@ EXPOSE 16984
 
 VOLUME /data
 
-CMD local-npm -d /data
+CMD local-npm -d /data --url $BASE_URL
